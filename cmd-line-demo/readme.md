@@ -6,9 +6,9 @@ Pull down ghost
 
 Inspect the dockerfile:
 
-From Kitematic, click "View on Dockerhub". Takes you to here: https://hub.docker.com/_/ghost
+From Kitematic, click [View on Dockerhub](https://hub.docker.com/_/ghost)
 
-Show docker cli documentation: https://docs.docker.com/engine/reference/commandline/cli/
+[Show docker cli documentation](https://docs.docker.com/engine/reference/commandline/cli/)
 
 Check documentation of the container
 
@@ -26,7 +26,7 @@ Inspect it
 
 Browse to it:
 
-http://localhost:3001
+<http://localhost:3001>
 
 Stop and delete it. Describe what happens to the contents of the container.
 
